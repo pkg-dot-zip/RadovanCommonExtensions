@@ -9,10 +9,16 @@
     <Authors>pkg-dot-zip</Authors>
     <PackageIcon>icon-192.png</PackageIcon>
     <PackageTags>extensions;reflection;collections</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/pkg-dot-zip/RadovanCommonExtensions</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
     <None Include="..\..\..\..\Downloads\IconKitchen-Output (2)\web\icon-192.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
