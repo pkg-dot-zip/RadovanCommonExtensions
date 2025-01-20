@@ -1,4 +1,4 @@
-﻿using RadovanCommonExtensions.Extensions;
+using RadovanCommonExtensions.Extensions;
 using Shouldly;
 
 namespace RadovanCommonExtensionsTests.Extensions
