@@ -12,10 +12,16 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/pkg-dot-zip/RadovanCommonExtensions</RepositoryUrl>
     <PackageProjectUrl>https://github.com/pkg-dot-zip/RadovanCommonExtensions</PackageProjectUrl>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
     <None Include="..\..\..\..\Downloads\IconKitchen-Output (2)\web\icon-192.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\LICENSE">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
