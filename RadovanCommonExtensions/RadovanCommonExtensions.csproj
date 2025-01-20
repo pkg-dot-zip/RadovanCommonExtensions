@@ -11,6 +11,7 @@
     <PackageTags>extensions;reflection;collections</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/pkg-dot-zip/RadovanCommonExtensions</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/pkg-dot-zip/RadovanCommonExtensions</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
